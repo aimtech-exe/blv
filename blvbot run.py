@@ -22,7 +22,7 @@ simRan = False
 
 
 
-TOKEN
+TOKEN = 'OTcyMDU2MzgzMzg0MDg0NTEw.G5myQ6.YOjwOoL1rLjqAowGmAaDsTioXo9OLJyODld-yA'
 
 
 client = commands.Bot(command_prefix="!", intents=discord.Intents.all())
