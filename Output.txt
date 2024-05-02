@@ -1,0 +1,1 @@
+https://predict.sondehub.org/?launch_datetime=2024-04-21T18%3A00%3A00Z&launch_latitude=34.0592&launch_longitude=242.1787&launch_altitude=230&ascent_rate=5.26&profile=standard_profile&prediction_type=single&burst_altitude=32295&descent_rate=8
